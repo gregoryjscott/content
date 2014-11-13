@@ -14,7 +14,6 @@ title: Databases
 <section markdown="1">
 I've written programs that used the following databases. Each database lists the projects that used the database.
 
-I've certainly done my fair share of database programming. In most projects I also managed the database maintenance tasks. My database changes are always scripted and automated.
 </section>
 
 <section>
