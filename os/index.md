@@ -20,10 +20,6 @@ I've written programs that run on the following operating systems. Each operatin
 {% for os in list reversed %}
   <h1><a href="{{ os.url }}">{{ os.title }}</a></h1>
 
-  {% if os.todo %} *NEEDS WORK* {% endif %}
-
-  <p>{{ os.desc }}</p>
-
   {% include links.md resource=os %}
 {% endfor %}
 </section>

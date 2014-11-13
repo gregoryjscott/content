@@ -22,8 +22,6 @@ Alternatively, you can explore projects by skill such as [language](/languages),
 {% for project in list reversed %}
   <h1><a href="{{ project.url }}">{{ project.title }}</a></h1>
 
-  {% if project.todo %} *NEEDS WORK* {% endif %}
-
   <p>
   <em>
     {{ project.role }},
