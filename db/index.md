@@ -12,7 +12,7 @@ title: Databases
 </header>
 
 <section markdown="1">
-I've written programs that used the following databases. Each database lists the projects that used the database.
+I've written programs that used the following databases. Each database lists my projects that used the database.
 
 </section>
 
