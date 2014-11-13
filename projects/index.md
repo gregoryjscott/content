@@ -36,8 +36,6 @@ Alternatively, you can explore projects by skill such as [language](/languages),
   </em>
   </p>
 
-  <p>{{ project.desc }}</p>
-
   {% include links.md resource=project %}
 {% endfor %}
 </section>
