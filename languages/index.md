@@ -12,7 +12,9 @@ title: Languages
 </header>
 
 <section markdown="1">
-I like to learn new languages!
+I've written programs using the following programming languages. Each languages lists the projects that used the language.
+
+I like to learn new languages! I also like using the best tool for the job. Having the ability to use (and fork if necessary) Ruby gems, JavaScript npm modules, Python pip packages, and C# NuGet packages to solve problems is very powerful.
 </section>
 
 <section>

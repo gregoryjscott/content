@@ -13,7 +13,9 @@ title: Operating Systems
 </header>
 
 <section markdown="1">
-Linux is already the future.
+I've written programs that run on the following operating systems. Each operating system lists the projects that were deployed to and/or tested on the operating system.
+
+I write code on Macs running OSX, sometimes hosting a Windows VM. I deploy projects to Windows and Linux environments.
 </section>
 
 <section>
