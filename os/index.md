@@ -12,7 +12,7 @@ title: Operating Systems
 </header>
 
 <section markdown="1">
-I've written programs that run on the following operating systems. Each operating system lists the projects that were deployed to, and/or tested on, the operating system.
+I've written programs that run on the following operating systems. Each operating system lists my projects that were deployed to, and/or tested on, the operating system.
 </section>
 
 <section>
