@@ -12,9 +12,7 @@ title: Projects
 </header>
 
 <section markdown="1">
-My projects with most recent projects listed at the top. Select any project for more details.
-
-Alternatively, you can explore projects by skill such as [language](/languages), [operating system](/os), or [database](/db).
+These are most of my current and past projects. Projects can also be explored by skill such as [language](/languages), [operating system](/os), or [database](/db).
 </section>
 
 <section>
