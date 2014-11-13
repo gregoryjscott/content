@@ -18,7 +18,7 @@ These are most of my current and past projects. Projects can also be explored by
 <section>
 {% assign list = page.projects | sort: 'begin_year' | sort: 'end_year', 'last' %}
 {% for project in list reversed %}
-  <h1><a href="{{ project.url }}">{{ project.title }}</a></h1>
+  <h1>{{ project.title }}</h1>
 
   <p>
   <em>

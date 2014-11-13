@@ -18,7 +18,7 @@ My projects use these programming languages.
 <section>
 {% assign list = page.languages | sort: 'projects_count' %}
 {% for language in list reversed %}
-  <h1><a href="{{ language.url }}">{{ language.title }}</a></h1>
+  <h1>{{ language.title }}</h1>
 
   {% include links.md resource=language %}
 {% endfor %}
