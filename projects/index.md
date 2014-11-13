@@ -1,12 +1,11 @@
 ---
 layout: default
-key: projects
 title: Projects
 ---
 
 <header>
   <nav>
-    <a href="/">gregoryjscott</a> / {{ page.key }}
+    <a href="/">gregoryjscott</a> / projects
   </nav>
 
   <h1>{{ page.title }}</h1>

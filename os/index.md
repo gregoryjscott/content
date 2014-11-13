@@ -1,12 +1,11 @@
 ---
 layout: default
-key: os
 title: Operating Systems
 ---
 
 <header>
   <nav>
-    <a href="/">gregoryjscott</a> / {{ page.key }}
+    <a href="/">gregoryjscott</a> / os
   </nav>
 
   <h1>{{ page.title }}</h1>
