@@ -5,7 +5,7 @@ title: Languages
 
 <header>
   <nav>
-    <a href="/">gregoryjscott</a> / {{ page.key }}
+    <a href="/">gregoryjscott</a> / languages
   </nav>
 
   <h1>{{ page.title }}</h1>

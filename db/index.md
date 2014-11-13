@@ -5,7 +5,7 @@ title: Databases
 
 <header>
   <nav>
-    <a href="/">gregoryjscott</a> / {{ page.key }}
+    <a href="/">gregoryjscott</a> / db
   </nav>
 
   <h1>{{ page.title }}</h1>
