@@ -5,7 +5,7 @@ layout: default
 <header>
   <nav>&nbsp;</nav>
 
-  <h1>{{ page.title }}</h1>
+  <h1>Hi, <a href="/about">I'm Greg.</a> I use software to make the world a better place.</h1>
 </header>
 
 <section markdown="1">
