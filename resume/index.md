@@ -9,12 +9,13 @@ layout: default
 </nav>
 
 # Gregory J. Scott
+</header>
 
+<section markdown="1">
 * address: PO Box XXX, Newkirk, OK, 74647
 * web: [http://gregoryjscott.com][g]
 * email: [me@gregoryjscott.com][email]
-
-</header>
+</section>
 
 <section markdown="1">
 {% include resume/skills.md %}
