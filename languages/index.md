@@ -12,7 +12,7 @@ title: Languages
 </header>
 
 <section markdown="1">
-I've written programs using the following programming languages. Each language lists my projects that used the language.
+My projects use these programming languages.
 </section>
 
 <section>
