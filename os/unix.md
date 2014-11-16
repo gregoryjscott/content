@@ -1,5 +1,4 @@
 ---
-layout: os
 ---
 
 TODO
