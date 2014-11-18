@@ -2,4 +2,4 @@
 layout: os
 ---
 
-I tolerate Windows.
+TODO
