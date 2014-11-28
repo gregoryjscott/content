@@ -19,6 +19,8 @@ These are most of my current and past projects. Projects can also be explored by
 {% for item in page.items %}
   <h1>{{ item.title }}</h1>
 
+  <p><em>{{ item.subtitle }}</em></p>
+
   {% include links.md resource=item %}
 {% endfor %}
 </section>
