@@ -16,10 +16,9 @@ My projects run on these operating systems.
 </section>
 
 <section>
-{% assign list = page.os | sort: 'projects_count' %}
-{% for os in list reversed %}
-  <h1>{{ os.title }}</h1>
+{% for item in page.items %}
+  <h1>{{ item.title }}</h1>
 
-  {% include links.md resource=os %}
+  {% include links.md resource=item %}
 {% endfor %}
 </section>

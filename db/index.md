@@ -16,10 +16,9 @@ My projects use these databases.
 </section>
 
 <section>
-{% assign list = page.db | sort: 'projects_count' %}
-{% for db in list reversed %}
-  <h1>{{ db.title }}</h1>
+{% for item in page.items %}
+  <h1>{{ item.title }}</h1>
 
-  {% include links.md resource=db%}
+  {% include links.md resource=item %}
 {% endfor %}
 </section>

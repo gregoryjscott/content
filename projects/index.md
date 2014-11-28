@@ -16,24 +16,9 @@ These are most of my current and past projects. Projects can also be explored by
 </section>
 
 <section>
-{% assign list = page.projects | sort: 'begin_year' | sort: 'end_year', 'last' %}
-{% for project in list reversed %}
-  <h1>{{ project.title }}</h1>
+{% for item in page.items %}
+  <h1>{{ item.title }}</h1>
 
-  <p>
-  <em>
-    {{ project.role }},
-    {{ project.begin_year }}
-      {% unless project.begin_year == project.end_year %} -
-        {% if project.end_year %}
-          {{ project.end_year }}
-        {% else %}
-          present
-        {% endif %}
-      {% endunless %}
-  </em>
-  </p>
-
-  {% include links.md resource=project %}
+  {% include links.md resource=item %}
 {% endfor %}
 </section>
