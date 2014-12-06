@@ -19,6 +19,6 @@ My projects run on these operating systems.
 {% for item in page.items %}
   <h1>{{ item.title }}</h1>
 
-  {% include links.md resource=item %}
+  {% include links.md data=item %}
 {% endfor %}
 </section>
