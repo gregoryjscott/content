@@ -21,6 +21,6 @@ These are most of my current and past projects. Projects can also be explored by
 
   <p><em>{{ item.subtitle }}</em></p>
 
-  {% include links.md data=item %}
+  {% include links-ul.md data=item %}
 {% endfor %}
 </section>
