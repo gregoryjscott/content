@@ -3,28 +3,28 @@ desc: TODO
 _links:
   projects:
     - title: Employee Suggestions
-      url: /projects/employee-suggestions
+      href: /projects/employee-suggestions
 
     - title: AWWU Intranet
-      url: /projects/awwu-intranet
+      href: /projects/awwu-intranet
 
     - title: AWWU Job Scheduler
-      url: /projects/awwu-job-scheduler
+      href: /projects/awwu-job-scheduler
 
     - title: AWWU Systems Integration
-      url: /projects/awwu-systems-integration
+      href: /projects/awwu-systems-integration
 
     - title: CIS Data Capture
-      url: /projects/cis-data-capture
+      href: /projects/cis-data-capture
 
     - title: Consumption Views
-      url: /projects/consumption-views
+      href: /projects/consumption-views
 
     - title: Database Synchronization (AWWU)
-      url: /projects/database-sync-awwu
+      href: /projects/database-sync-awwu
 
     - title: SAR Reports
-      url: /projects/sar-reports
+      href: /projects/sar-reports
 
     - title: Service Order Mobile Dispatch
-      url: /projects/somd
+      href: /projects/somd

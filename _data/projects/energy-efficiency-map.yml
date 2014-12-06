@@ -6,27 +6,27 @@ end_year: 2013
 _links:
   languages:
     - title: C#
-      url: /languages/cs
+      href: /languages/cs
 
     - title: CSS
-      url: /languages/css
+      href: /languages/css
 
     - title: HTML
-      url: /languages/html
+      href: /languages/html
 
     - title: JavaScript
-      url: /languages/js
+      href: /languages/js
 
     - title: SQL
-      url: /languages/sql
+      href: /languages/sql
 
     - title: Transact-SQL
-      url: /languages/tsql
+      href: /languages/tsql
 
   db:
     - title: SQL Server
-      url: /db/sql-server
+      href: /db/sql-server
 
   os:
     - title: Windows
-      url: /os/windows
+      href: /os/windows

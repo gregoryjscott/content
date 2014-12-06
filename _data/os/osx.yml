@@ -3,13 +3,13 @@ desc: TODO
 _links:
   projects:
     - title: Centroid
-      url: /projects/centroid
+      href: /projects/centroid
 
     - title: Denver Schedules API
-      url: /projects/denver-schedules-api
+      href: /projects/denver-schedules-api
 
     - title: ScrambleScore
-      url: /projects/scramble-score
+      href: /projects/scramble-score
 
     - title: Simpler
-      url: /projects/simpler
+      href: /projects/simpler

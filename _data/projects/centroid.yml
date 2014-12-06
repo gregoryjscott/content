@@ -6,20 +6,20 @@ end_year: 2014
 _links:
   languages:
     - title: C#
-      url: /languages/cs
+      href: /languages/cs
 
     - title: Python
-      url: /languages/py
+      href: /languages/py
 
     - title: Ruby
-      url: /languages/rb
+      href: /languages/rb
 
   os:
     - title: Windows
-      url: /os/windows
+      href: /os/windows
 
     - title: OSX
-      url: /os/osx
+      href: /os/osx
 
     - title: Linux
-      url: /os/linux
+      href: /os/linux

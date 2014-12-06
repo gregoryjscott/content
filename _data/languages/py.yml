@@ -3,7 +3,7 @@ desc: TODO
 _links:
   projects:
     - title: Alaska Gasline Development Corporation
-      url: /projects/agdc
+      href: /projects/agdc
 
     - title: Centroid
-      url: /projects/centroid
+      href: /projects/centroid

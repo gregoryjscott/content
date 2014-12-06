@@ -6,12 +6,12 @@ end_year: 2008
 _links:
   languages:
     - title: C#
-      url: /languages/cs
+      href: /languages/cs
 
   db:
     - title: Access
-      url: /db/access
+      href: /db/access
 
   os:
     - title: Windows
-      url: /os/windows
+      href: /os/windows

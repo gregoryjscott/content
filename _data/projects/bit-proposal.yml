@@ -6,8 +6,8 @@ end_year: 2008
 _links:
   languages:
     - title: C#
-      url: /languages/cs
+      href: /languages/cs
 
   os:
     - title: Windows
-      url: /os/windows
+      href: /os/windows

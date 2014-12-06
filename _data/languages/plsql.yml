@@ -3,19 +3,19 @@ desc: Oracle Corporation's procedural language extension for SQL and the Oracle 
 _links:
   projects:
     - title: Employee Suggestions
-      url: /projects/employee-suggestions
+      href: /projects/employee-suggestions
 
     - title: AWWU Intranet
-      url: /projects/awwu-intranet
+      href: /projects/awwu-intranet
 
     - title: AWWU Systems Integration
-      url: /projects/awwu-systems-integration
+      href: /projects/awwu-systems-integration
 
     - title: Consumption Views
-      url: /projects/consumption-views
+      href: /projects/consumption-views
 
     - title: Database Synchronization (AWWU)
-      url: /projects/database-sync-awwu
+      href: /projects/database-sync-awwu
 
     - title: Service Order Mobile Dispatch
-      url: /projects/somd
+      href: /projects/somd

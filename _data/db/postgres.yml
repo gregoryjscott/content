@@ -3,7 +3,7 @@ desc: TODO
 _links:
   projects:
     - title: Denver Schedules API
-      url: /projects/denver-schedules-api
+      href: /projects/denver-schedules-api
 
     - title: ScrambleScore
-      url: /projects/scramble-score
+      href: /projects/scramble-score

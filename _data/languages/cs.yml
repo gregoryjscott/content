@@ -3,73 +3,73 @@ desc: TODO
 _links:
   projects:
     - title: Quality Bank
-      url: /projects/qb
+      href: /projects/qb
 
     - title: Simpler
-      url: /projects/simpler
+      href: /projects/simpler
 
     - title: Energy Efficiency Map
-      url: /projects/energy-efficiency-map
+      href: /projects/energy-efficiency-map
 
     - title: AHFC Integration
-      url: /projects/ahfc-integration
+      href: /projects/ahfc-integration
 
     - title: Alaska Gasline Development Corporation
-      url: /projects/agdc
+      href: /projects/agdc
 
     - title: AWWU Intranet
-      url: /projects/awwu-intranet
+      href: /projects/awwu-intranet
 
     - title: AWWU Job Scheduler
-      url: /projects/awwu-job-scheduler
+      href: /projects/awwu-job-scheduler
 
     - title: AWWU Systems Integration
-      url: /projects/awwu-systems-integration
+      href: /projects/awwu-systems-integration
 
     - title: Bit Proposal
-      url: /projects/bit-proposal
+      href: /projects/bit-proposal
 
     - title: Centroid
-      url: /projects/centroid
+      href: /projects/centroid
 
     - title: CIS Data Capture
-      url: /projects/cis-data-capture
+      href: /projects/cis-data-capture
 
     - title: Database Synchronization (AWWU)
-      url: /projects/database-sync-awwu
+      href: /projects/database-sync-awwu
 
     - title: Denver Schedules API
-      url: /projects/denver-schedules-api
+      href: /projects/denver-schedules-api
 
     - title: FLIR Monitoring System
-      url: /projects/flir-monitoring
+      href: /projects/flir-monitoring
 
     - title: Lasar Range Finder
-      url: /projects/lasar-range-finder
+      href: /projects/lasar-range-finder
 
     - title: MvcIntegrationTestFramework
-      url: /projects/mvc-integration-test-framework
+      href: /projects/mvc-integration-test-framework
 
     - title: Please
-      url: /projects/please
+      href: /projects/please
 
     - title: ReportEngine
-      url: /projects/report-engine
+      href: /projects/report-engine
 
     - title: SAR Reports
-      url: /projects/sar-reports
+      href: /projects/sar-reports
 
     - title: Scrum Tools
-      url: /projects/scrum-tools
+      href: /projects/scrum-tools
 
     - title: SIF Agent
-      url: /projects/sif-agent
+      href: /projects/sif-agent
 
     - title: Service Order Mobile Dispatch
-      url: /projects/somd
+      href: /projects/somd
 
     - title: Systems Portal
-      url: /projects/systems-portal
+      href: /projects/systems-portal
 
     - title: TrainBuilder
-      url: /projects/train-builder
+      href: /projects/train-builder

@@ -6,18 +6,18 @@ end_year: 2004
 _links:
   languages:
     - title: Delphi
-      url: /languages/delphi
+      href: /languages/delphi
 
     - title: SQL
-      url: /languages/sql
+      href: /languages/sql
 
   db:
     - title: Btrieve
-      url: /db/btrieve
+      href: /db/btrieve
 
     - title: Pervasive
-      url: /db/pervasive
+      href: /db/pervasive
 
   os:
     - title: Windows
-      url: /os/windows
+      href: /os/windows

@@ -3,22 +3,22 @@ desc: Microsoft SQL Server is a relational database management system developed 
 _links:
   projects:
     - title: Quality Bank
-      url: /projects/qb
+      href: /projects/qb
 
     - title: Energy Efficiency Map
-      url: /projects/energy-efficiency-map
+      href: /projects/energy-efficiency-map
 
     - title: Alaska Gasline Development Corporation
-      url: /projects/agdc
+      href: /projects/agdc
 
     - title: AHFC Integration
-      url: /projects/ahfc-integration
+      href: /projects/ahfc-integration
 
     - title: Scrum Tools
-      url: /projects/scrum-tools
+      href: /projects/scrum-tools
 
     - title: Systems Portal
-      url: /projects/systems-portal
+      href: /projects/systems-portal
 
     - title: TrainBuilder
-      url: /projects/train-builder
+      href: /projects/train-builder

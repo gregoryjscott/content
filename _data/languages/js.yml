@@ -3,25 +3,25 @@ desc: TODO
 _links:
   projects:
     - title: Energy Efficiency Map
-      url: /projects/energy-efficiency-map
+      href: /projects/energy-efficiency-map
 
     - title: Alaska Gasline Development Corporation
-      url: /projects/agdc
+      href: /projects/agdc
 
     - title: AWWU Intranet
-      url: /projects/awwu-intranet
+      href: /projects/awwu-intranet
 
     - title: Quality Bank
-      url: /projects/qb
+      href: /projects/qb
 
     - title: ScrambleScore
-      url: /projects/scramble-score
+      href: /projects/scramble-score
 
     - title: Scrum Tools
-      url: /projects/scrum-tools
+      href: /projects/scrum-tools
 
     - title: Service Order Mobile Dispatch
-      url: /projects/somd
+      href: /projects/somd
 
     - title: Systems Portal
-      url: /projects/systems-portal
+      href: /projects/systems-portal

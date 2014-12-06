@@ -3,10 +3,10 @@ desc: TODO
 _links:
   projects:
     - title: Wen-GAGE SI
-      url: /projects/wengage-si
+      href: /projects/wengage-si
 
     - title: Wen-GAGE Accounting
-      url: /projects/wengage-acct
+      href: /projects/wengage-acct
 
     - title: Class Scheduler
-      url: /projects/class-scheduler
+      href: /projects/class-scheduler

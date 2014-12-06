@@ -3,7 +3,7 @@ desc: TODO
 _links:
   projects:
     - title: FLIR Monitoring System
-      url: /projects/flir-monitoring
+      href: /projects/flir-monitoring
 
     - title: Lasar Range Finder
-      url: /projects/lasar-range-finder
+      href: /projects/lasar-range-finder
