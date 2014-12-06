@@ -2,7 +2,7 @@ todo: true
 title: Access
 url: /db/access
 desc: TODO
-links:
+_links:
   projects:
     - title: FLIR Monitoring System
       url: /projects/flir-monitoring

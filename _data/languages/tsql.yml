@@ -2,7 +2,7 @@ todo: true
 title: Transact-SQL
 url: /languages/tsql
 desc: Microsoft's and Sybase's proprietary extension to SQL.
-links:
+_links:
   projects:
     - title: Energy Efficiency Map
       url: /projects/energy-efficiency-map

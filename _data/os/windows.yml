@@ -2,7 +2,7 @@ todo: true
 title: Windows
 url: /os/windows
 desc: TODO
-links:
+_links:
   projects:
     - title: Energy Efficiency Map
       url: /projects/energy-efficiency-map

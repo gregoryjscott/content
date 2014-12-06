@@ -5,7 +5,7 @@ desc: TODO
 role: Technical Lead
 begin_year: 2013
 end_year: 2014
-links:
+_links:
   languages:
     - title: C#
       url: /languages/cs

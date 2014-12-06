@@ -2,7 +2,7 @@ todo: true
 title: Postgres
 url: /db/postgres
 desc: TODO
-links:
+_links:
   projects:
     - title: Denver Schedules API
       url: /projects/denver-schedules-api

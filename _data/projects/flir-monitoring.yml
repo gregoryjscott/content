@@ -5,7 +5,7 @@ desc: TODO
 role: Developer
 begin_year: 2007
 end_year: 2007
-links:
+_links:
   languages:
     - title: C#
       url: /languages/cs

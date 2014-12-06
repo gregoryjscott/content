@@ -2,7 +2,7 @@ todo: true
 title: Delphi
 url: /languages/delphi
 desc: TODO
-links:
+_links:
   projects:
     - title: Wen-GAGE SI
       url: /projects/wengage-si

@@ -2,7 +2,7 @@ todo: true
 title: Pervasive
 url: /db/pervasive
 desc: TODO
-links:
+_links:
   projects:
     - title: Class Scheduler
       url: /projects/class-scheduler

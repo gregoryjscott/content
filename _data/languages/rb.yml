@@ -2,7 +2,7 @@ todo: true
 title: Ruby
 url: /languages/rb
 desc: TODO
-links:
+_links:
   projects:
     - title: Alaska Gasline Development Corporation
       url: /projects/agdc

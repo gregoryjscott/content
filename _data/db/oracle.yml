@@ -2,7 +2,7 @@ todo: true
 title: Oracle
 url: /db/oracle
 desc: TODO
-links:
+_links:
   projects:
     - title: Employee Suggestions
       url: /projects/employee-suggestions

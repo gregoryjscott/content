@@ -5,7 +5,7 @@ desc: TODO
 role: Author
 begin_year: 2010
 end_year: 2010
-links:
+_links:
   languages:
     - title: C#
       url: /languages/cs

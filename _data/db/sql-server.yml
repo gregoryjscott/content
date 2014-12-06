@@ -2,7 +2,7 @@ todo: true
 title: SQL Server
 url: /db/sql-server
 desc: Microsoft SQL Server is a relational database management system developed by Microsoft.
-links:
+_links:
   projects:
     - title: Quality Bank
       url: /projects/qb

@@ -2,7 +2,7 @@ todo: true
 title: PL/SQL
 url: /languages/plsql
 desc: Oracle Corporation's procedural language extension for SQL and the Oracle relational database.
-links:
+_links:
   projects:
     - title: Employee Suggestions
       url: /projects/employee-suggestions

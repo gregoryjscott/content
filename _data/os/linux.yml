@@ -2,7 +2,7 @@ todo: true
 title: Linux
 url: /os/linux
 desc: TODO
-links:
+_links:
   projects:
     - title: Centroid
       url: /projects/centroid

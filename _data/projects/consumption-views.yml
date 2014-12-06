@@ -5,7 +5,7 @@ desc: TODO
 role: Lead Developer
 begin_year: 2009
 end_year: 2009
-links:
+_links:
   languages:
     - title: Transact-SQL
       url: /languages/tsql

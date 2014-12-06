@@ -2,7 +2,7 @@ todo: true
 title: Btrieve
 url: /db/btrieve
 desc: TODO
-links:
+_links:
   projects:
     - title: Class Scheduler
       url: /projects/class-scheduler

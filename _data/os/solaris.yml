@@ -2,7 +2,7 @@ todo: true
 title: Solaris
 url: /os/solaris
 desc: TODO
-links:
+_links:
   projects:
     - title: Backup Controls and Displays
       url: /projects/backup-controls-displays

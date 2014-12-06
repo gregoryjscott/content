@@ -2,7 +2,7 @@ todo: true
 title: OSX
 url: /os/osx
 desc: TODO
-links:
+_links:
   projects:
     - title: Centroid
       url: /projects/centroid
