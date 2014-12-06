@@ -6,17 +6,17 @@ end_year:
 _links:
   languages:
     - title: C#
-      href: /languages/cs
+      href: /languages/cs/
 
     - title: Ruby
-      href: /languages/rb
+      href: /languages/rb/
 
   os:
     - title: Windows
-      href: /os/windows
+      href: /os/windows/
 
     - title: OSX
-      href: /os/osx
+      href: /os/osx/
 
     - title: Linux
-      href: /os/linux
+      href: /os/linux/

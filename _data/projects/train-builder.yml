@@ -6,15 +6,15 @@ end_year: 2007
 _links:
   languages:
     - title: C#
-      href: /languages/cs
+      href: /languages/cs/
 
     - title: SQL
-      href: /languages/sql
+      href: /languages/sql/
 
   db:
     - title: SQL Server
-      href: /db/sql-server
+      href: /db/sql-server/
 
   os:
     - title: Windows
-      href: /os/windows
+      href: /os/windows/

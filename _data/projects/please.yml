@@ -6,18 +6,18 @@ end_year: 2014
 _links:
   languages:
     - title: C#
-      href: /languages/cs
+      href: /languages/cs/
 
     - title: Ruby
-      href: /languages/rb
+      href: /languages/rb/
 
     - title: SQL
-      href: /languages/sql
+      href: /languages/sql/
 
   db:
     - title: SQLite
-      href: /db/sqlite
+      href: /db/sqlite/
 
   os:
     - title: Windows
-      href: /os/windows
+      href: /os/windows/

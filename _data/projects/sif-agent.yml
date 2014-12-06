@@ -6,15 +6,15 @@ end_year: 2005
 _links:
   languages:
     - title: C#
-      href: /languages/cs
+      href: /languages/cs/
 
     - title: SQL
-      href: /languages/sql
+      href: /languages/sql/
 
   db:
     - title: Pervasive
-      href: /db/pervasive
+      href: /db/pervasive/
 
   os:
     - title: Windows
-      href: /os/windows
+      href: /os/windows/

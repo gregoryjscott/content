@@ -6,13 +6,13 @@ end_year:
 _links:
   languages:
     - title: CSS
-      href: /languages/css
+      href: /languages/css/
 
     - title: HTML
-      href: /languages/html
+      href: /languages/html/
 
     - title: Ruby
-      href: /languages/rb
+      href: /languages/rb/
 
   os:
     - title: OSX

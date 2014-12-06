@@ -3,23 +3,23 @@ desc: The website of Gregory J. Scott.
 _links:
   work:
     - title: Projects
-      href: /projects
+      href: /projects/
 
     - title: Resume
-      href: /resume
+      href: /resume/
 
     - title: GitHub
       href: https://github.com/gregoryjscott
 
   skills:
     - title: Languages
-      href: /languages
+      href: /languages/
 
     - title: Operating Systems
-      href: /os
+      href: /os/
 
     - title: Databases
-      href: /db
+      href: /db/
 
   contact:
     - title: Email

@@ -6,12 +6,12 @@ end_year: 1999
 _links:
   languages:
     - title: Delphi
-      href: /languages/delphi
+      href: /languages/delphi/
 
   db:
     - title: Btrieve
-      href: /db/btrieve
+      href: /db/btrieve/
 
   os:
     - title: Windows
-      href: /os/windows
+      href: /os/windows/

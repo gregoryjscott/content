@@ -3,10 +3,10 @@ desc: TODO
 _links:
   projects:
     - title: SMF Controls and Displays
-      href: /projects/smf-controls-displays
+      href: /projects/smf-controls-displays/
 
     - title: Backup Controls and Displays
-      href: /projects/backup-controls-displays
+      href: /projects/backup-controls-displays/
 
     - title: Mission Data Loader
-      href: /projects/mission-data-loader
+      href: /projects/mission-data-loader/

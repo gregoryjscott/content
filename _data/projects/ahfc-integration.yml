@@ -6,15 +6,15 @@ end_year: 2013
 _links:
   languages:
     - title: SQL
-      href: /languages/sql
+      href: /languages/sql/
 
     - title: Transact-SQL
-      href: /languages/tsql
+      href: /languages/tsql/
 
   db:
     - title: SQL Server
-      href: /db/sql-server
+      href: /db/sql-server/
 
   os:
     - title: Windows
-      href: /os/windows
+      href: /os/windows/

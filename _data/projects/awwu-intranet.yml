@@ -6,27 +6,27 @@ end_year: 2008
 _links:
   languages:
     - title: C#
-      href: /languages/cs
+      href: /languages/cs/
 
     - title: CSS
-      href: /languages/css
+      href: /languages/css/
 
     - title: HTML
-      href: /languages/html
+      href: /languages/html/
 
     - title: JavaScript
-      href: /languages/js
+      href: /languages/js/
 
     - title: Transact-SQL
-      href: /languages/tsql
+      href: /languages/tsql/
 
     - title: SQL
-      href: /languages/sql
+      href: /languages/sql/
 
   db:
     - title: Oracle
-      href: /db/oracle
+      href: /db/oracle/
 
   os:
     - title: Windows
-      href: /os/windows
+      href: /os/windows/

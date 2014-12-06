@@ -6,24 +6,24 @@ end_year: 2014
 _links:
   languages:
     - title: C#
-      href: /languages/cs
+      href: /languages/cs/
 
     - title: Ruby
-      href: /languages/rb
+      href: /languages/rb/
 
     - title: SQL
-      href: /languages/sql
+      href: /languages/sql/
 
   db:
     - title: Postgres
-      href: /db/postgres
+      href: /db/postgres/
 
   os:
     - title: Windows
-      href: /os/windows
+      href: /os/windows/
 
     - title: OSX
-      href: /os/osx
+      href: /os/osx/
 
     - title: Linux
-      href: /os/linux
+      href: /os/linux/

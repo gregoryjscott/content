@@ -6,33 +6,33 @@ end_year: 2014
 _links:
   languages:
     - title: C#
-      href: /languages/cs
+      href: /languages/cs/
 
     - title: CSS
-      href: /languages/css
+      href: /languages/css/
 
     - title: HTML
-      href: /languages/html
+      href: /languages/html/
 
     - title: JavaScript
-      href: /languages/js
+      href: /languages/js/
 
     - title: Python
-      href: /languages/py
+      href: /languages/py/
 
     - title: Ruby
-      href: /languages/rb
+      href: /languages/rb/
 
     - title: SQL
-      href: /languages/sql
+      href: /languages/sql/
 
     - title: Transact-SQL
-      href: /languages/tsql
+      href: /languages/tsql/
 
   db:
     - title: SQL Server
-      href: /db/sql-server
+      href: /db/sql-server/
 
   os:
     - title: Windows
-      href: /os/windows
+      href: /os/windows/

@@ -6,12 +6,12 @@ end_year: 2006
 _links:
   languages:
     - title: C#
-      href: /languages/cs
+      href: /languages/cs/
 
   db:
     - title: Oracle
-      href: /db/oracle
+      href: /db/oracle/
 
   os:
     - title: Windows
-      href: /os/windows
+      href: /os/windows/
