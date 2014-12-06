@@ -1,6 +1,5 @@
 todo: true
 title: SQLite
-url: /db/sqlite
 desc: TODO
 _links:
   projects:
