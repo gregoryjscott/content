@@ -9,5 +9,5 @@ layout: default
 </header>
 
 <section markdown="1">
-{% include links-ul.md resource=page %}
+{% include links-ul.md data=page %}
 </section>
