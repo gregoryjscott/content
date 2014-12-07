@@ -16,7 +16,7 @@ _links:
 
   os:
     - title: OSX
-      href: /os/osx
+      href: /os/osx/
 
     - title: Linux
-      href: /os/linux
+      href: /os/linux/
