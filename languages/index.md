@@ -19,6 +19,6 @@ My projects use these programming languages.
 {% for item in page.items %}
   <h1>{{ item.title }}</h1>
 
-  {% include links-ul.md data=item %}
+  {% include links-ul.html data=item %}
 {% endfor %}
 </section>

@@ -5,9 +5,9 @@ layout: default
 <header>
   <nav>&nbsp;</nav>
 
-  <h1>Hi, <a href="/me">I'm Greg.</a> I'm a full-stack programmer for hire.</h1>
+  <h1>Hi, I'm Greg. I'm a full-stack programmer for hire.</h1>
 </header>
 
-<section markdown="1">
-{% include links-ul.md data=page %}
+<section>
+{% include links-ul.html data=page %}
 </section>
