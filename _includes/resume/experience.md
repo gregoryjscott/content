@@ -4,6 +4,7 @@
 
 _July 2005 - July 2014_
 
+<article markdown="1">
 Technical Lead for Resource Data, Inc., with branches in Alaska, Texas, Idaho, Minnesota, and Oregon, that provides custom database, web, and GIS programming services.
 
 Led development teams on client projects of all types and sizes.
@@ -15,11 +16,13 @@ Completed some of RDI's most challenging development projects, for example, the 
 Assisted in marketing, recruiting, and employee reviews.
 
 Impacted technology selection, project management, and people management across the company.
+</article>
 
 ## Lead Programmer - Municipal Accounting Systems, Inc.
 
 _November 1999 - June 2005_
 
+<article markdown="1">
 Lead Programmer for Municipal Accounting Systems, Inc, based in Shawnee, Oklahoma, that provides accounting and student information software solutions to school districts.
 
 Led the development team in replacing the entire DOS-based software product stack with a suite of Windows desktop applications.
@@ -27,11 +30,13 @@ Led the development team in replacing the entire DOS-based software product stac
 Developed the Student Infrastructure Framework (SIF) agent that gives the Oklahoma State Department of Education (OSDE) the ability to submit queries and receive real-time student data changes.
 
 Created tools to streamline repetitive company tasks such as configuring databases, performing data imports from other vendor products, and deploying software updates.
+</article>
 
 ## Embedded Software Engineer - Boeing, Defense and Space Group
 
 _August 1998 - November 1999_
 
+<article markdown="1">
 Embedded Software Engineer for Boeing, Defense and Space Group, based in Oklahoma City, Oklahoma, that developed the B1-B Bomber Block E software upgrade.
 
 Designed and developed the mission data loading interface used to distribute mission data throughout the multi-threaded avionic flight software.
@@ -39,3 +44,4 @@ Designed and developed the mission data loading interface used to distribute mis
 Developed the Device Backup displays used to emulate switch panels and keyboards in cases of hardware failure.
 
 Developed the System Management Function displays used to monitor and administer the system.
+</article>
