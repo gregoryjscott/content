@@ -18,7 +18,7 @@ Technology moves so fast. Change is exciting, but it's also a little scary. We c
 In this world filled with technology, chances are good that you're dealing with technology problems at your place of work. Perhaps **I can help you**.
 </article>
 
-## Check out my work.
+# Check out my work.
 
 <article markdown="1">
 My career has been filled with challenging projects, engaged clients, great companies, and awesome teammates. I've been very fortunate. Feel free to browse through my projects or look over my resume.
@@ -28,7 +28,7 @@ My career has been filled with challenging projects, engaged clients, great comp
 
 <a class="button" href="{{ page._links.resume.href }}">{{ page._links.resume.title }}</a>
 
-## Want technical details?
+# Want technical details?
 
 <article markdown="1">
 I've got you covered. You can browse my work by skill such as language, database, or operating system. Everything is cross-referenced with hyperlinks so knock yourself out.
@@ -40,7 +40,7 @@ I've got you covered. You can browse my work by skill such as language, database
 
 <a class="button" href="{{ page._links.os.href }}">{{ page._links.os.title }}</a>
 
-## Show me some code!
+# Show me some code!
 
 <article markdown="1">
 You bet. You can view the source code for my open source projects on GitHub.
@@ -48,7 +48,7 @@ You bet. You can view the source code for my open source projects on GitHub.
 
 <a class="button" href="{{ page._links.oss.href }}">{{ page._links.oss.title }}</a>
 
-## Think I might be able to help you?
+# Think I might be able to help you?
 
 <article markdown="1">
 Great! This is how it works.
