@@ -17,7 +17,7 @@ My projects run on these operating systems.
 
 <section>
 {% for item in page.items %}
-  <h1>{{ item.title }}</h1>
+ <h1><a href="{{ item.url }}">{{ item.title }}</a></h1>
 
   {% include links-ul.html data=item %}
 {% endfor %}
