@@ -6,7 +6,7 @@ C#, JavaScript, Ruby, Python, SQL, TSQL, PLSQL, Java, Delphi, Ada95, PHP, Visual
 
 ## [Operating Systems](/os)
 
-Windows, OSX, Linux, MS-DOS, iOS, Android, Solaris, Novell, Unix
+Windows, OS X, Linux, MS-DOS, iOS, Android, Solaris, Novell, Unix
 
 ## [Databases](/db)
 
