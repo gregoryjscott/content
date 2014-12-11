@@ -52,10 +52,9 @@ Great! This is how it works.
 
 1. Send me a quick email to let me know you're interested.
 2. We'll start with a 1 - 2 hour meeting. You'll tell me about your technologies, problems, and ideas. I'll tell you how I can solve your problems and make your ideas become reality.
-2. If we choose to pursue a business relationship, then I'll send over a contract. The contract will define how the relationship will work, including everything that I'll need from you to get started.
-3. After the contract is signed we'll start making your technology troubles go away!
+3. If we choose to pursue a business relationship, then I'll send over a contract. The contract will define how the relationship will work, including everything that I'll need from you to get started.
 
-I love to teach, learn, and build technology, and I'm pretty good at it. Please let me know if I can put these skills to use for you. Thank you for your consideration.
+Shoot me an email and let's get started!
 </article>
 
 <a class="button recommend" href="{{ page._links.email.href }}">{{ page._links.email.title }}</a>
