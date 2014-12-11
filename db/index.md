@@ -19,6 +19,8 @@ My projects use these databases.
 {% for item in page.items %}
   <h1>{{ item.title }}</h1>
 
+  <p>{{ item.desc }}</p>
+
   {% include links-ul.html data=item %}
 {% endfor %}
 </section>
