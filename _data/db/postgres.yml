@@ -1,5 +1,5 @@
 title: Postgres
-desc: Postgres is an open source object relational database.
+desc: Postgres is an open source, object relational database.
 _links:
   projects:
     - title: Denver Schedules API
