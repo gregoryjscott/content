@@ -28,10 +28,10 @@ My career has been filled with challenging projects, engaged clients, great comp
 
 <a class="button" href="{{ page._links.resume.href }}">{{ page._links.resume.title }}</a>
 
-# Want technical details?
+# Explore my skills.
 
 <article markdown="1">
-I've got you covered. You can browse my work by skill such as language, database, or operating system. Everything is cross-referenced with hyperlinks so knock yourself out.
+Want technical details? I've got you covered. You can browse my work by skill such as language, database, or operating system. Everything is cross-referenced with hyperlinks so knock yourself out.
 </article>
 
 <a class="button" href="{{ page._links.languages.href }}">{{ page._links.languages.title }}</a>
@@ -43,7 +43,7 @@ I've got you covered. You can browse my work by skill such as language, database
 # Show me some code!
 
 <article markdown="1">
-You bet. You can view the source code for my open source projects on GitHub.
+You bet. You can view the source code for all my open source projects on GitHub.
 </article>
 
 <a class="button" href="{{ page._links.oss.href }}">{{ page._links.oss.title }}</a>
