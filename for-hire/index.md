@@ -25,7 +25,6 @@ My career has been filled with challenging projects, engaged clients, great comp
 </article>
 
 <a class="button" href="{{ page._links.projects.href }}">{{ page._links.projects.title }}</a>
-
 <a class="button" href="{{ page._links.resume.href }}">{{ page._links.resume.title }}</a>
 
 # Explore my skills.
@@ -35,9 +34,7 @@ Want technical details? I've got you covered. You can browse my work by skill su
 </article>
 
 <a class="button" href="{{ page._links.languages.href }}">{{ page._links.languages.title }}</a>
-
 <a class="button" href="{{ page._links.db.href }}">{{ page._links.db.title }}</a>
-
 <a class="button" href="{{ page._links.os.href }}">{{ page._links.os.title }}</a>
 
 # Show me some code!
