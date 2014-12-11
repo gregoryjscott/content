@@ -11,7 +11,7 @@ layout: default
 </header>
 
 <article markdown="1">
-Technology moves so fast. Change is exciting, but it's also a little scary. We can't stop it, so our only choice is to embrace it. Fortunately, it turns out that change isn't so scary if you prepare for it. In fact, it can even be fun!
+Technology moves so fast. Change is exciting, but it can also be scary. We can't stop it, so our only choice is to embrace it. Fortunately, it turns out that change isn't so scary if you prepare for it. In fact, it can even be fun!
 
 **I've helped schools, governments, and businesses** of all kinds build systems that work _and_ change over time. Technology systems are either improving or dying - that's how technology evolves.
 
@@ -52,7 +52,7 @@ Great! This is how it works.
 
 1. Send me a quick email to let me know you're interested.
 2. We'll start with a 1 - 2 hour meeting. You'll tell me about your technologies, problems, and ideas. I'll tell you how I can solve your problems and make your ideas become reality.
-3. If we choose to pursue a business relationship, then I'll send over a contract. The contract will define how the relationship will work, including everything that I'll need from you to get started.
+3. If we choose to pursue a business relationship then I'll send over a contract. The contract will define how the relationship will work including rates, payments, timelines, deliverables, and anything that I'll need from you to begin work.
 
 Shoot me an email and let's get started!
 </article>
