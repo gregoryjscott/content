@@ -5,6 +5,29 @@ _links:
     title: How can I help you?
     href: /for-hire/
 
-  email:
-    title: Email me.
-    href: mailto:me@gregoryjscott.com
+  work:
+    - title: Projects
+      href: /projects
+
+    - title: Resume
+      href: /resume
+
+    - title: Open Source
+      href: https://github.com/gregoryjscott
+
+  skills:
+    - title: Languages
+      href: /languages
+
+    - title: Operating Systems
+      href: /os
+
+    - title: Databases
+      href: /db
+
+  contact:
+    - title: Email
+      href: mailto:me@gregoryjscott.com
+
+    - title: Twitter
+      href: https://twitter.com/gregoryjscott
