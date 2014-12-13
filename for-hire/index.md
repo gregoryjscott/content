@@ -27,6 +27,14 @@ My career has been filled with challenging projects, engaged clients, great comp
 <a class="button" href="{{ page._links.projects.href }}">{{ page._links.projects.title }}</a>
 <a class="button" href="{{ page._links.resume.href }}">{{ page._links.resume.title }}</a>
 
+## Show me some code!
+
+<article markdown="1">
+You bet. The source code for all my open source projects is on GitHub.
+</article>
+
+<a class="button" href="{{ page._links.oss.href }}">{{ page._links.oss.title }}</a>
+
 # Explore my skills.
 
 <article markdown="1">
@@ -36,14 +44,6 @@ Want technical details? I've got you covered. You can browse my work by skill su
 <a class="button" href="{{ page._links.languages.href }}">{{ page._links.languages.title }}</a>
 <a class="button" href="{{ page._links.db.href }}">{{ page._links.db.title }}</a>
 <a class="button" href="{{ page._links.os.href }}">{{ page._links.os.title }}</a>
-
-# Show me some code!
-
-<article markdown="1">
-You bet. You can view the source code for all my open source projects on GitHub.
-</article>
-
-<a class="button" href="{{ page._links.oss.href }}">{{ page._links.oss.title }}</a>
 
 # Think I might be able to help you?
 
