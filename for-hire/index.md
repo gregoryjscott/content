@@ -45,16 +45,6 @@ Want technical details? I've got you covered. You can browse my work by skill su
 <a class="button" href="{{ page._links.db.href }}">{{ page._links.db.title }}</a>
 <a class="button" href="{{ page._links.os.href }}">{{ page._links.os.title }}</a>
 
-# Ready to get to started?
-
-<article markdown="1">
-Great! This is how it works.
-
-1. Send me a quick email to let me know you're interested.
-2. We'll start with a 1 - 2 hour meeting. You'll tell me about your technologies, problems, and ideas. I'll tell you how I can solve your problems and make your ideas become reality.
-3. If we choose to pursue a business relationship then I'll send over a contract. The contract will define how the relationship will work including rates, payments, timelines, deliverables, and anything that I'll need from you to begin work.
-
-Shoot me an email and let's do it!
-</article>
-
-<a class="button recommend" href="{{ page._links.email.href }}">{{ page._links.email.title }}</a>
+<section markdown="1">
+{% include get-started.md email=page._links.email %}
+</section>
