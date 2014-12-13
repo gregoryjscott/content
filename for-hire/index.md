@@ -30,7 +30,7 @@ My career has been filled with challenging projects, engaged clients, great comp
 ## Show me some code!
 
 <article markdown="1">
-You bet. The source code for all my open source projects is on GitHub.
+You bet. The source code for all my open source projects is on GitHub. If you find anything that looks incorrect then please send me a pull request. I'm always grateful for contributions.
 </article>
 
 <a class="button" href="{{ page._links.oss.href }}">{{ page._links.oss.title }}</a>
