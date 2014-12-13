@@ -24,3 +24,9 @@ My projects run on these operating systems.
   {% include links-ul.html data=item %}
 {% endfor %}
 </section>
+
+<hr>
+
+<section markdown="1">
+{% include get-started.md %}
+</section>

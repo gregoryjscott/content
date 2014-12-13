@@ -1,10 +1,6 @@
 ---
 layout: default
 title: Databases
-_links:
-  email:
-    title: Email me.
-    href: mailto:me@gregoryjscott.com
 ---
 
 <header>
@@ -32,5 +28,5 @@ My projects use these databases.
 <hr>
 
 <section markdown="1">
-{% include get-started.md email=page._links.email %}
+{% include get-started.md %}
 </section>

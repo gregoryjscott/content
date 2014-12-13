@@ -22,3 +22,9 @@ My projects use these programming languages.
   {% include links-ul.html data=item %}
 {% endfor %}
 </section>
+
+<hr>
+
+<section markdown="1">
+{% include get-started.md %}
+</section>

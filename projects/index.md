@@ -24,3 +24,9 @@ These are most of my current and past projects. Projects can also be explored by
   {% include links-ul.html data=item %}
 {% endfor %}
 </section>
+
+<hr>
+
+<section markdown="1">
+{% include get-started.md %}
+</section>
