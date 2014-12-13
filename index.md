@@ -5,7 +5,7 @@ layout: default
 <header>
   <nav>&nbsp;</nav>
 
-  <h1>Hi, I'm Greg. I'm a full-stack programmer for hire.</h1>
+  <h1>{{ page.title }}</h1>
 </header>
 
 <section>

@@ -13,7 +13,7 @@ layout: default
 <article markdown="1">
 Technology moves so fast. Change is exciting, but it can also be scary. We can't stop it, so our only choice is to embrace it. Fortunately, it turns out that change isn't so scary if you prepare for it. In fact, it can even be fun!
 
-**I've helped schools, governments, and businesses** of all kinds build systems that work _and_ change over time. Technology systems are either improving or dying - that's how technology evolves.
+**I've helped schools, governments, and businesses** of all kinds build systems that work _and_ change over time. As technology evolves, systems must continue to improve in order to stay relevant.
 
 In this world filled with technology, chances are good that you're dealing with technology problems at your place of work. Perhaps **I can help you**.
 </article>
