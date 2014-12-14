@@ -11,11 +11,13 @@ layout: default
 </header>
 
 <article markdown="1">
-Technology moves at breakneck speed. Change is both exciting and scary at the same time. You can try to fight it, but the odds aren't in your favor. The only option is to embrace it. Fortunately, change isn't so scary if you're ready for it. In fact, it can be an asset.
+Technology moves at breakneck speed. Change is both exciting and scary at the same time. You can try to fight it, but the odds aren't in your favor. The only option is to embrace it. Fortunately, change isn't so scary if you're ready for it. In fact, the ability to react to change can be an asset.
 
 Embracing change has been an integral part of my success as a professional programmer. **I've helped schools, governments, and businesses** build systems that solve problems _and_ change over time. Systems must be designed to adapt as business needs change and technology evolves. Software that isn't improving is slowing becoming irrelevant.
 
-Is your existing software outdated? Are you having issues with some of your business critical software? Maybe you have an idea for some new software that would improve the effectiveness of your team? Or it could be that you don't speak computer and you just need some advice about your technology choices? **I can help you**.
+Is your existing software outdated? Are you having issues with some of your business critical software? Maybe you have an idea for some new software that would improve the effectiveness of your team? Or it could be that you don't speak computer and you just need some advice about your technology choices?
+
+Chances are good you're dealing with some kind of technology problem at your place of work. Perhaps **I can help you**.
 </article>
 
 # Check out my work.
