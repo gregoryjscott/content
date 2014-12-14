@@ -2,28 +2,28 @@ title: Hi, I'm Greg. I'm a full-stack programmer for hire.
 desc: The website of Gregory J. Scott.
 _links:
   recommend:
-    title: Have a technology problem?
-    href: /for-hire/
+    title: Learn what I can do for you
+    href: /services/
 
   work:
     - title: Projects
-      href: /projects
+      href: /projects/
 
     - title: Resume
-      href: /resume
+      href: /resume/
 
     - title: GitHub
       href: https://github.com/gregoryjscott
 
   skills:
     - title: Languages
-      href: /languages
+      href: /languages/
 
     - title: Operating Systems
-      href: /os
+      href: /os/
 
     - title: Databases
-      href: /db
+      href: /db/
 
   contact:
     - title: Email
