@@ -20,7 +20,7 @@ Embracing change has been an integral part of my success as a professional progr
 * Perhaps you have an idea for some new software that would improve the effectiveness of your team?
 * Maybe you don't speak computer and just need some guidance on your technology choices?
 
-Chances are good you're dealing with some kind of technology problem at your place of work. **I can help you**.
+Chances are good you're dealing with some kind of technology problem at your place of work. **I can help you.**
 </article>
 
 # Find out more about me.
