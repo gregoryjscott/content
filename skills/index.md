@@ -22,6 +22,8 @@ If you're looking for a specific set of technical skills then you've came to the
 Don't see the particular skills you have in mind? No worries - learning new skills is my best skill.
 </article>
 
+<hr>
+
 # Find out more about me.
 
 <a class="button" href="/work/">Check out my work.</a>
