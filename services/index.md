@@ -37,7 +37,7 @@ Feel free to browse through my projects or look over my resume.
 You bet. The source code for all my open source projects is on GitHub.
 </article>
 
-<a class="button" href="{{ page._links.oss.href }}">{{ page._links.oss.title }}</a>
+<a class="button" href="{{ page._links.code.href }}">{{ page._links.code.title }}</a>
 
 # Explore my skills.
 
