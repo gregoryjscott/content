@@ -27,8 +27,4 @@ Don't see the particular skills you have in mind? No worries - learning new skil
 # Find out more about me.
 
 <a class="button" href="/work/">Check out my work.</a>
-<a class="button" href="/services/">Learn what I can do for you.</a>
-
-<section markdown="1">
-{% include get-started.md %}
-</section>
+<a class="button recommend" href="/services/">Learn what I can do for you.</a>

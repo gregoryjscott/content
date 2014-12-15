@@ -27,11 +27,9 @@ You bet. The source code for all my open source projects is on GitHub.
 
 <a class="button" href="{{ page._links.code.href }}">{{ page._links.code.title }}</a>
 
+<hr>
+
 # Find out more about me.
 
 <a class="button" href="/skills/">Explore my skills.</a>
-<a class="button" href="/services/">Learn what I can do for you.</a>
-
-<section markdown="1">
-{% include get-started.md %}
-</section>
+<a class="button recommend" href="/services/">Learn what I can do for you.</a>
