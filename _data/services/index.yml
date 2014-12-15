@@ -23,7 +23,3 @@ _links:
   db:
     title: Databases
     href: /db/
-
-  email:
-    title: Email me.
-    href: mailto:me@gregoryjscott.com
