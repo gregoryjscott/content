@@ -22,9 +22,10 @@ If you're looking for a specific set of technical skills then you've came to the
 Don't see the particular skills you have in mind? No worries - learning new skills is my best skill.
 </article>
 
-# [Check out my work.](/work/)
+# Find out more about me.
 
-# [Learn what I can do for you.](/services/)
+<a class="button" href="/work/">Check out my work.</a>
+<a class="button" href="/services/">Learn what I can do for you.</a>
 
 <section markdown="1">
 {% include get-started.md %}

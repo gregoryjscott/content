@@ -20,9 +20,10 @@ Is your existing software outdated? Are you having issues with some of your busi
 Chances are good you're dealing with some kind of technology problem at your place of work. **I can help you**.
 </article>
 
-# [{{ page._links.work.title }}]({{ page._links.work.href }})
+# Find out more about me.
 
-# [Explore my skills.](/skills/)
+<a class="button" href="/work/">Check out my work.</a>
+<a class="button" href="/skills/">Explore my skills.</a>
 
 <section markdown="1">
 {% include get-started.md %}
