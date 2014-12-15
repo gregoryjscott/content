@@ -11,13 +11,17 @@ layout: default
 </header>
 
 <article markdown="1">
-I've programmed PCs, Macs, mainframes, hand-held range finders, GPS devices, a laser mounted to single-engine plane, smartphones, tablets, calculators, and B-1 Bombers. I have been fortunate to work with teams of amazingly talented people on these exciting and challenging projects.
+The art of software design is building the simplest possible solution to the problem. I take great pride in my work. The systems I build must be simple to understand and easy to use. The code I write must be clean and readable. Anything else is simply not good enough.
 
-Feel free to browse through my projects or look over my resume.
+Please feel free to browse through my projects or look over my resume.
 </article>
 
 <a class="button" href="{{ page._links.projects.href }}">{{ page._links.projects.title }}</a>
 <a class="button" href="{{ page._links.resume.href }}">{{ page._links.resume.title }}</a>
+
+<article markdown="1">
+Don't see a project that matches what you have in mind? Good! I'd rather not build the same thing twice anyway.
+</article>
 
 ## Show me some code!
 
