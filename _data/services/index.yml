@@ -1,25 +1,9 @@
 title: I solve technology problems.
 _links:
-  code:
-    title: GitHub
-    href: https://github.com/gregoryjscott?tab=repositories
+  work:
+    title: Check out my work.
+    href: /work/
 
-  resume:
-    title: Resume
-    href: /resume/
-
-  projects:
-    title: Projects
-    href: /projects
-
-  languages:
-    title: Languages
-    href: /languages/
-
-  os:
-    title: Operating Systems
-    href: /os/
-
-  db:
-    title: Databases
-    href: /db/
+  skills:
+    title: Explore my skills
+    href: /skills/

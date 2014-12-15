@@ -20,39 +20,10 @@ Is your existing software outdated? Are you having issues with some of your busi
 Chances are good you're dealing with some kind of technology problem at your place of work. **I can help you**.
 </article>
 
-# Check out my work.
+# [{{ page._links.work.title }}]({{ page._links.work.href }})
 
-<article markdown="1">
-I've programmed PCs, Macs, mainframes, hand-held range finders, GPS devices, a laser mounted to single-engine plane, smartphones, tablets, calculators, and B-1 Bombers. I have been fortunate to work with teams of amazingly talented people on these exciting and challenging projects.
-
-Feel free to browse through my projects or look over my resume.
-</article>
-
-<a class="button" href="{{ page._links.projects.href }}">{{ page._links.projects.title }}</a>
-<a class="button" href="{{ page._links.resume.href }}">{{ page._links.resume.title }}</a>
-
-## Show me some code!
-
-<article markdown="1">
-You bet. The source code for all my open source projects is on GitHub.
-</article>
-
-<a class="button" href="{{ page._links.code.href }}">{{ page._links.code.title }}</a>
-
-# Explore my skills.
-
-<article markdown="1">
-If you're looking for a specific set of technical skills then you've came to the right place. You can browse my work by skill such as language, database, or operating system. Everything is cross-referenced with hyperlinks so knock yourself out.
-</article>
-
-<a class="button" href="{{ page._links.languages.href }}">{{ page._links.languages.title }}</a>
-<a class="button" href="{{ page._links.db.href }}">{{ page._links.db.title }}</a>
-<a class="button" href="{{ page._links.os.href }}">{{ page._links.os.title }}</a>
-
-<article markdown="1">
-Don't see the particular skills you have in mind? No worries - learning new skills is my best skill.
-</article>
+# [Explore my skills.](/skills/)
 
 <section markdown="1">
-{% include get-started.md email=page._links.email %}
+{% include get-started.md %}
 </section>
