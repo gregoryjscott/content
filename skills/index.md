@@ -28,5 +28,5 @@ Don't see the particular skill you need? No problem, learning new skills is my b
 
 # Find out more about me.
 
-<a class="button" href="/work/">Check out my work.</a>
-<a class="button recommend" href="/services/">Learn what I can do for you.</a>
+<a class="button" href="/work/">Check out my work</a>
+<a class="button recommend" href="/services/">Learn what I can do for you</a>

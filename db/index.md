@@ -27,8 +27,8 @@ My projects use these databases.
 
 <hr>
 
-<h1>Find out more about me.</h1>
+# Find out more about me.
 
-<a class="button" href="/work/">Check out my work.</a>
-<a class="button" href="/skills/">Explore my skills.</a>
-<a class="button recommend" href="/services/">Learn what I can do for you.</a>
+<a class="button" href="/work/">Check out my work</a>
+<a class="button" href="/skills/">Explore my skills</a>
+<a class="button recommend" href="/services/">Learn what I can do for you</a>

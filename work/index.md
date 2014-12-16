@@ -35,5 +35,5 @@ You bet. The source code for all my open source projects is on GitHub.
 
 # Find out more about me.
 
-<a class="button" href="/skills/">Explore my skills.</a>
-<a class="button recommend" href="/services/">Learn what I can do for you.</a>
+<a class="button" href="/skills/">Explore my skills</a>
+<a class="button recommend" href="/services/">Learn what I can do for you</a>

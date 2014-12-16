@@ -25,8 +25,8 @@ Chances are good you're dealing with some kind of technology problem at your pla
 
 # Find out more about me.
 
-<a class="button" href="/work/">Check out my work.</a>
-<a class="button" href="/skills/">Explore my skills.</a>
+<a class="button" href="/work/">Check out my work</a>
+<a class="button" href="/skills/">Explore my skills</a>
 
 <section markdown="1">
 {% include get-started.md %}
